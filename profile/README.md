@@ -1,4 +1,4 @@
-<p align="center"><img src="avatar.png" width="110" alt="Radarnite"></p>
+<p align="center"><img src="radarnite-logo.png" width="110" alt="Radarnite"></p>
 
 <h2 align="center">Radarnite</h2>
 
